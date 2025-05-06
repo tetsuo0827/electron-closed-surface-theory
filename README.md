@@ -4,3 +4,5 @@ Reinterpreting the electron as a resonant closed potential surface
 Reinterpreting the electron as a resonant closed potential surface
 electron_closed_surface.pdf
 electron_closed_surface.pdf
+https://github.com/tetsuo0827/electron-closed-surface-theory
+
